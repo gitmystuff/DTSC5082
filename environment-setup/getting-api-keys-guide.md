@@ -1,8 +1,5 @@
 # Getting API Keys: Groq & Hugging Face
 
-A one-time setup, done now so it's not a bottleneck when we reach the agents stage of the course.
-
----
 
 ## Why these two, and why now
 
